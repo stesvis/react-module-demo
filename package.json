@@ -1,6 +1,6 @@
 {
   "name": "@stesvis/react-module-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +18,9 @@
     "standard-version": "^9.5.0",
     "typescript": "^5.6.3",
     "typescript-eslint": "^7.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stesvis/react-module-demo.git"
   }
 }
